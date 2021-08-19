@@ -4,7 +4,11 @@ namespace BookStore
 {
     public class BookStore
     {
-        public IList<Categories> Categories { get; set; }
+        public IList<Categories> Categories 
+        { 
+            get; 
+            set; 
+        }
 
         
     }

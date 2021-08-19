@@ -18,12 +18,6 @@ namespace BookStore
             set;
         }
 
-        public string Genre
-        {
-            get;
-            set;
-        }
-
         public double UnitPrice
         {
             get;

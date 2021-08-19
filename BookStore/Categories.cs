@@ -6,9 +6,21 @@ namespace BookStore
 {
     public class Categories
     {
-        public string Category { get; set; }
+        public string Category 
+        { 
+            get; 
+            set; 
+        }
 
-        public double Discount { get; set; }
-        public IList<Book> Books { get; set; }
+        public double Discount 
+        { 
+            get; 
+            set; 
+        }
+        public IList<Book> Books 
+        { 
+            get; 
+            set; 
+        }
     }
 }
