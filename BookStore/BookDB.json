@@ -1,0 +1,57 @@
+{
+  "Categories": [
+    {
+      "Category": "Crime",
+      "Discount": 5,
+      "Books": [
+        {
+          "Title": "Unsolved murders",
+          "Author": "Emily G. Thompson, Amber Hunt",
+          "UnitPrice": 10.99
+        },
+        {
+          "Title": "Jack the Ripper",
+          "Author": "Philip Sugden",
+          "UnitPrice": 16.0
+        }
+      ]
+    },
+    {
+      "Category": "Romance",
+      "Discount": 0,
+      "Books": [
+        {
+          "Title": "A Little Love Story",
+          "Author": "Roland Merullo",
+          "UnitPrice": 2.4
+        }
+      ]
+    },
+    {
+      "Category": "Fantasy",
+      "Discount": 0,
+      "Books": [
+        {
+          "Title": "Alice in Wonderland",
+          "Author": "Lewis Carroll",
+          "UnitPrice": 5.99
+        },
+        {
+          "Title": "Heresy",
+          "Author": "S J Parris",
+          "UnitPrice": 6.8
+        },
+        {
+          "Title": "The Neverending Story",
+          "Author": "Michael Ende",
+          "UnitPrice": 7.99
+        },
+        {
+          "Title": "The Tolkien Years",
+          "Author": "Greg Hildebrandt",
+          "UnitPrice": 22.9
+        }
+      ]
+    }
+  ]
+}
